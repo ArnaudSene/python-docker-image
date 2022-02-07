@@ -1,0 +1,14 @@
+[distutils]
+index-servers =
+    gitlab
+    gitlab-dev
+
+[gitlab]
+repository = https://gitlab.com/api/v4/projects/32483506/packages/pypi
+username = __token__
+password = FzKxdkErzB7aM9R73-3K
+
+[gitlab-dev]
+repository = https://gitlab.com/api/v4/projects/33498258/packages/pypi
+username = __token__
+password = FzKxdkErzB7aM9R73-3K
